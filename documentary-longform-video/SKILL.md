@@ -12,6 +12,10 @@ Two non-negotiables of this skill:
 1. **Typography is a storytelling layer, not decoration.** Every 40-60 seconds something big hits the screen full-frame. The hierarchy below defines exactly how.
 2. **Audio never blocks the pipeline.** If the user supplies MP3/WAV (+ SRT), the voiceover is the timing source of truth. If they do not, continue anyway with the skill's own timing generation (Stage 4). Never stop a project waiting for audio files.
 
+Companion files (read them when a stage needs their detail):
+- `references/style_guide.md` - exact palette, fonts, card anatomy, motion timings, map style, thumbnail spec
+- `references/templates.md` - copy-paste output formats for every stage (research brief, script beats, typography plan, shot list, asset checklist, timing sheet, SRT note)
+
 ## Core rules
 
 - Work in the six stages. Finish one, then **stop and wait**, except where a stage says to continue.
